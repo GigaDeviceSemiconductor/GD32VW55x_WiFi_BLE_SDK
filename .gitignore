@@ -1,0 +1,3 @@
+cmake_build/
+tools/
+MSDK/app/_build_date.h
