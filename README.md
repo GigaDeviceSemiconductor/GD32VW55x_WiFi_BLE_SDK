@@ -1,4 +1,13 @@
-This is GD32VW553 WiFi and BLE SDK
+# Welcome to the GD32VW55x Wi-Fi BLE SDK
+
+Welcome to the GD32VW55x Wi-Fi BLE SDK.The GD32VW553 series MCU supports Wi-Fi 6 and Bluetooth LE 5.2 wireless connectivity. To fulfill the requirements of real-time processing and efficient communication, the GD32VW553 series MCU incorporates a new open-source instruction set architecture with a RISC-V processor core, boasting a maximum clock frequency of 160 MHz. The integrated 2.4 GHz Wi-Fi 6 RF module adheres to the IEEE 802.11ax standard and is backward compatible with the IEEE 802.11b/g/n standard, ensuring compatibility with different network environments. 
+
+GD32VW553 series MCU：
+- Support Wi-Fi 6 and Bluetooth LE 5.2 wireless connectivity
+- Based on RISC-V core, up to 160MHz operating frequency.
+- Integrated 4MB Flash and 320KB SRAM.
+  
+This repository contains the GD32VW55x Wi-Fi and BLE SDK including core SDK,drivers and examples, a comprehensive toolkit for building embedded IoT applications. 
 
 # Getting start
 
@@ -66,3 +75,4 @@ chmod +x MSDK/projects/image_prebuild.sh
 ## Development Notes
 1. The toolchain and OpenOCD debugging tools are placed in `Tools`
 2. `main.c` is under `MSDK/app`. You can add your own source files in the `CMakeLists.txt` in that directory.
+
