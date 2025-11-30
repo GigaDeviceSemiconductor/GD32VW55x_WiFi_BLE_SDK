@@ -1,20 +1,21 @@
 SOFTWARE LICENSE AGREEMENT SLA-GD0012-version1.0
 BY DOWNLOADING, COPYING, INSTALLING, ACCESSING OR OTHERWISE USING THIS SOFTWARE PACKAGE OR ANY PART THEREOF (AND THE RELATED DOCUMENTATION), YOU AGREE TO BE BOUND BY THIS SOFTWARE LICENSE AGREEMENT. IF YOU DO NOT AGREE WITH ANY CONDITION OF THIS SLA, DO NOT DOWNLOAD, COPY, INSTALL, ACCESS OR OTHERWISE USE THIS SOFTWARE PACKAGE. 
 
-Under GigaDevice’s intellectual property rights, subject to the conditions below, you are permitted to redistribute, reproduce, and use the software in source and binary forms, with or without modification:
+Under the intellectual property rights of GigaDevice, redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
 1.	Redistributions of source code must retain any copyright notice, this list of conditions, and the following disclaimer, whether the source code is modified or not.
 2.	Redistributions in binary form, except as embedded into device manufactured by or for GigaDevice or a software update for such device, must reproduce any copyright notice, this list of conditions, and the disclaimer in documentation and/or other materials provided with the distribution.
-3.	Neither the name of GigaDevice nor the names of other contributors to this software may be used to endorse or promote products derived from this software or part thereof without specific written permission. 
-4.	This software or any part thereof, including modifications and/or derivative works of this software, must be used and executed solely on or in combination with devices manufactured by or for GigaDevice .
-5.	GigaDevice has no obligation to provide any maintenance, support or updates  for the software.
-6.	The recipient shall comply with all applicable laws and regulations affecting the use of the software or any part thereof, including any applicable export control law or regulation , as well as the GigaDevice's policy on Export Control and Economic Sanctions Compliance（https://www.gigadevice.com/about/compliance/export-control-compliance）.
-7.	Redistribution and use of this software or any part thereof other than as permitted under this license  is void and will automatically terminate your rights under this license. 
-8.	Except as expressly granted herein, no other rights—express or implied—are granted  under any patents or other intellectual property rights of GigaDevice or any third party.
-9.	THIS SOFTWARE IS PROVIDED BY GIGADEVICE AND CONTRIBUTORS "AS IS" AND ANY EXPRESS, IMPLIED OR STATUTORY WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT OF THIRD PARTY INTELLECTUAL PROPERTY RIGHTS, WHICH ARE DISCLAIMED  TO THE FULLEST EXTENT PERMITTED BY LAW. IN NO EVENT SHALL GIGADEVICE OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+3.	Neither the name of GigaDevice nor the names of other contributors to this software may be used to endorse or promote products derived from this software or part thereof without specific written permission.
+4.	This software or any part thereof, including modifications and/or derivative works of this software, must be used and executed solely on or in combination with devices manufactured by or for GigaDevice.
+5.	GigaDevice has no obligation to provide any maintenance, support or updates for the software.
+6.	The recipient shall comply with all applicable laws and regulations affecting the use of the software or any part thereof, including any applicable export control law or regulation, as well as the GigaDevice's policy on Export Control and Economic Sanctions Compliance（https://www.gigadevice.com/about/compliance/export-control-compliance）. 
+7.	Redistribution and use of this software or any part thereof other than as permitted under this license is void and will automatically terminate your rights under this license. 
+8.	The software is and will remain the exclusive property of GigaDevice and its licensors. Except as expressly granted herein, no other rights—express or implied—are granted under any patent or other intellectual property rights of GigaDevice or any third party.
+9.	THIS SOFTWARE IS PROVIDED BY GIGADEVICE AND CONTRIBUTORS "AS IS" AND ANY EXPRESS, IMPLIED OR STATUTORY WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT OF THIRD PARTY INTELLECTUAL PROPERTY RIGHTS, WHICH ARE DISCLAIMED TO THE FULLEST EXTENT PERMITTED BY LAW. IN NO EVENT SHALL GIGADEVICE OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  
+
 Revision history
 Document revision history
 Dat
 Date	Version	Changes
-2025-11-282025-11-27
+2025-11-30
 1.0	Initial release
