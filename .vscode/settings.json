@@ -22,12 +22,5 @@
     },
     "[cpp]": {
         "editor.defaultFormatter": "ms-vscode.cpptools"
-    },
-    "files.associations": {
-        "rftest_cfg.h": "c",
-        "tinyws.h": "c",
-        "gd32vw55x.h": "c",
-        "ble_init.h": "c",
-        "http_parser.h": "c"
     }
 }

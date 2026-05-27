@@ -748,7 +748,7 @@ static void at_help(int argc, char **argv)
 #endif
 
 #ifdef CFG_BLE_SUPPORT
-#include "..\ble\app\atcmd_ble.c"
+#include "atcmd_ble.c"
 #endif
 #ifdef CONFIG_AZURE_F527_DEMO_SUPPORT
 #ifndef CONFIG_ATCMD_SPI

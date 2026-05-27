@@ -174,28 +174,8 @@ static void mbedtls_deinit(void)
     mbedtls_platform_set_printf(NULL);
 }
 
-/*!
-    \brief      jump to main image
-    \param[in]  to_nsec: decide jujmp to non-secure or secure
-    \param[in]  msp: main stack pointer
-    \param[in]  reset: reset handler
-    \param[out] none
-    \retval     none
-*/
-void reloc_iv(const uint32_t *address)
-{
-    __asm volatile("csrw mtvec, %0":: "r"(address + 1));
-}
-
 static void jump_to_main_image(uint32_t start_addr)
 {
-#if 1
-    /* workaround for long jump */
-    __asm volatile("la    a2, reloc_iv;" \
-                 "jalr  a2" ::: "a2");
-#else
-    reloc_iv(app_offset);
-#endif
     __asm volatile("jr %0":: "r"((uint8_t *)(start_addr)));
 }
 
