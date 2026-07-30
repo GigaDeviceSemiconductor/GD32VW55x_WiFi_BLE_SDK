@@ -11,7 +11,7 @@
             "servertype": "external",
             "gdbTarget": "localhost:3333",
             "preLaunchTask": "Start OpenOCD (GDLink)",
-            "svdFile": "${workspaceFolder}/MSDK/projects/segger/GD32VW553x.svd",
+            "svdFile": "${workspaceFolder}/MSDK/projects/cmake/GD32VW553x.svd",
             "symbolFiles": [
                 "${workspaceFolder}/MSDK/projects/cmake/output/bin/MSDK.elf"
             ],
